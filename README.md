@@ -1,4 +1,5 @@
 # BGK2XLSX
+![](https://img.shields.io/badge/python-3.12.7-blue) ![](https://img.shields.io/badge/Biopython-1.7.1-green)
 
 BGK2XLSX is a Python-based tool that extracts gene information from GenBank files and converts it into an Excel file format (.xlsx), making it easier to analyze and manipulate genomic data in a spreadsheet.
 
